@@ -4,3 +4,21 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# Hello! I'm Jon Moshier and this is my page. 
+### I'm a software engineer living in Denver, CO. I work at [Transmed Systems](http://xbtransmed.com) writing code and building deployment infrastructure. Here's a copy of my [resume](assets/jonmoshier-resume.pdf) if you're interested.
+
+## Contact
+Email: [jonmoshier@gmail.com](mailto:jonmoshier@gmail.com)  
+Github: [github.com/jonmoshier](https://github.com/jonmoshier)  
+LinkedIn: [linkedin.com/in/jmoshier](https://linkedin.com/in/jmoshier)
+
+## Blog Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
