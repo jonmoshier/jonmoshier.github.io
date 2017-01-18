@@ -1,0 +1,124 @@
+---
+layout: post
+title:  "The 7 Habits of Effective People Getting Things Done (with Pomodoro)"
+date:   2016-01-14 12:00:00 -0700
+categories: blog post 
+---
+
+
+**This is a work in progress - Jan 14, 2017**
+
+
+I'm not as productive as I could be. 
+
+Bill Gates is [curing malaria][BillGates], Elon Musk is friggin' trying to [put people on Mars][ElonMusk]; what am I doing? [Not much in comparison][Me].
+
+[BillGates]: http://www.gatesfoundation.org/What-We-Do/Global-Health/Malaria 
+[ElonMusk]: http://www.spacex.com/mars
+[Me]: /about 
+
+Admittedly, these people are anomolies. They're not like you and I, right?
+Certainly they're destined for greatness while we're content to Netflix and Chill (not that those things are mutually exclusive). But maybe we're closer to these productive freaks of nature than we think we are.
+
+## How can I be prolific?
+
+I spent a week or so researching productivity methods and I settled on a few
+that I'm trying to incorporate into my life. Now, you've really got to be
+careful when researching productivity, there's a trap there. Reading about
+productivity is alluring. So alluring that you *can* spend a lot of time reading
+about *being productive* without actually *being productive*.
+
+My advice: pick a thing or two and stick with it. Reassess in 3 months. Avoid
+the trap of productivity porn&#42;
+
+&#42;[real-ish term, I promise.](http://lifehacker.com/5932142/avoid-the-trap-of-productivity-porn)
+
+## What I picked.
+
+After a bit of research, I decided to pick three that I
+
+1. had already heard of and
+2. were very popular
+
+I picked three because... well, mostly on accident. After picking one very
+popular producivity, I realized that it only really covered a certain 'frame' of
+productivity. The others, build out the middle.
+
+## So what are they?!
+
+So, without too much more adieu, the unveiling; I picked:
+
+* #### [The 7 Habits of Highly Effective People] [7habits]
+* #### [David Allen's *Getting Things Done*] [gtd]
+* #### [Pomodoro] []
+
+[7habits]: https://www.stephencovey.com/7habits/7habits.php
+[gtd]: http://gettingthingsdone.com
+[pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+Why three? First I started with the obvious and often used Getting Things Done.
+It's *the standard* for productivity methods. I knew I was going to use it
+before I even started my research. But then I noticed that GTD doesn't fill out
+the edges. GTD is great for actually Getting Things Done but it doesn't talk
+about what things you should be getting done; that's where the 7 Habits of
+Highly Effective People comes in. 
+
+Seven Habits really talks about the big picture, life. It's a philosophy for
+success more than a set of productivity tools. GTD talks about how to get those things done in the weekly, monthly,
+yearly sense but doesn't really focus on down to the minute. That's where Pomodoro comes in.
+
+### The 7 Habits of Highly Effective People
+
+What are the 7 habits?
+
+* Be Proactive
+* Begin with the End in Mind
+* First things First
+* Win-Win
+* Understand, then be Understood
+* Synergize
+* Sharpen the Saw
+
+## Personal
+
+##### Be Proactive
+Might be somewhat self-explanatory but it's a required foundation to success. You've got to take control of your life and just spend your life reacting to events.
+
+##### Begin with the End in Mind
+What's your goal? Mine's *entrepreneurship*. Set your sites on your goal and make your plans toward it.
+
+##### First things First
+What are first things? Whatever you want them to be! Put yourself first.
+
+##### Win-Win
+The world isn't always the zero-sum game we think it is. Abundance. Creating value just creates value. If we both create value, we both win.
+
+##### Understand, then be Understood
+Alright, most of us are listening auto-biographically and responding with *our* viewpoints. Listen! Try and understand 
+
+##### Synergize
+
+synergy: "The whole is greater than the sum of its parts"
+
+
+##### Sharpen the Saw
+Dudes and dudettes, keep getting better.
+
+
+### Getting Things Done
+
+Getting things done:
+
+* In list.
+* Projects
+* Someday/Maybe
+* etc.. 
+
+### Pomodoro
+
+Pomodoro:
+
+* Break up your chunks into 30 minutes.
+
+
+

@@ -13,3 +13,5 @@ nav a:hover { color: #333330; }
 
 main a { text-decoration:none; color:#333330; background:#eee; }
 main a:hover { color: #fffff0; background:#333330; }
+
+.post-date { font-size:.8em;}
