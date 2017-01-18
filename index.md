@@ -7,7 +7,7 @@ layout: home
 
 # Hello! I'm Jon Moshier and this is my page. 
 
-## I'm a software engineer living in Denver, CO. I work at [Transmed Systems](http://xbtransmed.com) writing code and building deployment infrastructure. Here's a copy of my [resume](assets/jonmoshier-resume.pdf) if you're interested.
+## I'm a software engineer living in Denver, CO. I work at [Transmed Systems](http://xbtransmed.com) writing code and building deployment infrastructure. Here's a copy of my [resume](https://github.com/jonmoshier/resume/blob/master/jonmoshier-resume.pdf) if you're inerested.
 
 ## Contact
 Email: [jonmoshier@gmail.com](mailto:jonmoshier@gmail.com)  
